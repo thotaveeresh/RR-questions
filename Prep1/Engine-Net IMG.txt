@@ -1,0 +1,7 @@
+[11:05 AM] Muddugalmath, Mallikarjuna (Contractor)
+
+Write an SQL query to print details of the Workers who are also Managers.
+
+[11:06 AM] Muddugalmath, Mallikarjuna (Contractor)
+
+ Write an SQL query to print details of the Workers whose SALARY lies between 100000 and 500000.

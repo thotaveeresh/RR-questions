@@ -1,0 +1,16 @@
+types of variables in powerapps
+what are collections and ways to look at it. what users collect from clear 
+scenario based question where we need to bring data from backend of any system to powerapps
+clear and collect how to do
+we have got lot of teams , we select team and alot storage and based on create entity data , so there should be color coding used for storage for every teams storage part
+also how to approach if we dont have if else and switch statements 
+booking a desk without prior approval in office
+
+Set 2 
+types of applications in powerapps
+how would you achieve flexible height of nested galleries 
+how do u handle errors 
+couple of tables , master tables ,child table. - master table - 10 records- child table n records - master table have relation with child record.
+prepare ui based on fixed number gallery 
+i have got 100s of record in database, every time user sees he finds new set of questions ,prepare a quiz and use pagenation. 
+we have got some automate flow , how would u consume power automate and obtain the outputs.

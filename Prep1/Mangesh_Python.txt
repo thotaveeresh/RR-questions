@@ -1,0 +1,12 @@
+1. Python class: classmethod vs staticmethod. where to use and what are its advantages-disadvantages
+2. Difference between Multithreading and Multi processing
+3. How to resolve Out of Memory issues at Driver and Executor side. Why does it happen and what can be done to prevent
+4. have you handled data skewness. How to handle data skewness
+5. One python coding question based on recursion. find combination of coins to make sum
+6. 1 SQL qeury question
+7. different types of facts and dimensions tables
+8. how were they created in your projects. Have done any data modelling
+9. Running 1 ADF from another ADF instance and how to add dependency on each others run
+10. How to delete blob after 30 days using ADF
+11. Implement SCD type 2 using ADF
+12. how will you give access to any business team/Data Scientist of your storage account.

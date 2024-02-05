@@ -1,0 +1,6 @@
+1) Two ADF instances running in parallel , what if one has to fail, so how the lock is done based on success of it?
+2) How is partition config handled in big billion days of amazon and flipkart ? DFS
+3) What are views and it types?
+4) Basic DDL, DML, DCL commands in SQL
+5) All four types of Joins
+6) Salting in ADF

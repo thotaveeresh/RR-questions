@@ -1,0 +1,12 @@
+1. What is confirmed dimension 
+2. How is dimension retrieved in SCD
+3. MD5 and SHA function?
+4. Assume logs are growing ? Adf services outside of log files which deletes previous data on daily basis?
+5. Types of views? Materialized views
+6. Types of scheduling triggers in ADF
+7, Three different adf instances, A is master , without a completing pipeline in B and C should not start and file arrival should be loaded , b and c also have file but as master is not started b and c cannot start . How will we start B and c
+8. Daily sale analysis
+ --> [4/21 11:48 AM] Sahoo, Amit
+select customer_id, count(visit_id) from visits a left join transactions t where a.visit_id=t.visit_id group by visit_id
+
+

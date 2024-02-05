@@ -1,0 +1,61 @@
+1) Difference between and best optimization ? Sort-Merge Join & Hashed-Shuffle Join
+2) have you handled data skewness. How to handle data skewness
+3) different types of facts and dimensions tables how were they created in your projects. Have done any data modelling
+What is cursor, how is it helpful in pl /sql and stored proc
+what is trigger
+4) calculate the each share value:
+table : share
+5) REFER sql-de image,nth highest salary of employee  Write an SQL query to fetch only odd rows from the table Write an SQL query to remove duplicates from a table without using a temporary table.
+sharename product day price
+lego       buy     1   1000
+lego       sell    3   1200 
+nike       buy     2   3000
+nike       sell    6   4000
+lego       buy     12  6000
+puma       buy     15  3000
+lego       sell    14  5000 result:
+sharename price
+lego      -1200
+nike      1000
+puma      3000
+
+5) Repartition vs coalese ?
+   SCd 2, scd 1 (just explain)  Slowly Changing Dimensions
+6) Sql:
+------      
+Employee table:
+               +----+-------+--------+--------------+
+               | Id | Name  | Salary | DepartmentId |
+               +----+-------+--------+--------------+
+               | 1  | Joe   | 85000  | 1            |
+               | 2  | Henry | 80000  | 2            |
+               | 3  | Sam   | 60000  | 2            |
+               | 4  | Max   | 90000  | 1            |
+               | 5  | Janet | 69000  | 1            |
+               | 6  | Randy | 85000  | 1            |
+               | 7  | Will  | 70000  | 1            |
+               +----+-------+--------+--------------+
+               Department table:
+               +----+-------+
+               | Id | Name  |
+               +----+-------+
+               | 1  | IT    |
+               | 2  | Sales |
+               +----+-------
+          
+1) Department top 3 salary 
+            
+2) We have a table with 2 columns as below:
+col1 | col2
+10 | a
+10 | b
+10 | c 
+20 | d
+20 | e
+20 | f Expected output: -------------------------
+|id  |col1 | col2 | col3|
+-------------------------
+10   | a   | b    | c   |
+20   | d   | e    | f   |
+
+7)

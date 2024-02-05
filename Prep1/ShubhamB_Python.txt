@@ -1,0 +1,14 @@
+1.find the Duplicates in spark: (without Spark SQL )
+2.count the duplicates in spark (sql)
+3.use window function to point out the duplicates (without spark sql )
+4.persistence vs cache  : advantages and disadvantages 
+5. day 2-- partition 2 
+day 3-- partition 3 
+how hive will read those (Alter statement ) 
+6. external table vs internal table 
+7. optimization tecniques 
+8. Have u ever used GroupBy ? 
+no,Why 
+9. Repartition vs coalese ?
+10. SCd 2, scd 1 (just explain) 
+11. Out of Memory issues at Driver and Executor side

@@ -1,0 +1,38 @@
+1) Azure Data Factory pipeline line questions.
+i) How to delete the log files which are stored more then 30days
+ii) How to get the file names from the blob store.
+iii) How can we use multiple for loops in the pipeline
+iV) How can we execute multiple pipelines from multiple ADF
+2) Python class,method and data structure solving questions
+i) What is a class?
+ii) How to define a class?
+iii) What is static method and how it is usefull?
+iV ) Recursive function in python and used?
+V) Solve the problem to find all the possible ways with the values and list given using python
+value = 5 , list = [1,2,5]
+result:
+5 = 5
+5 = 2+2+1
+5 = 2+1+1+1
+5 = 1+1+1+1+1
+3) Databricks ,spark related questions.
+i) Error caused in databricks jobs?
+ii) What all possible ways to cause an error in executor?
+iii) How to check the logs?
+iV) Optimization techniques?
+V) How to define the cluster size?
+4) Sql query to solve the case studies 
+i) calculate the each share value:
+table : share
+sharename product day price
+lego       buy     1   1000
+lego       sell    3   1200 
+nike       buy     2   3000
+nike       sell    6   4000
+lego       buy     12  6000
+puma       buy     15  3000
+lego       sell    14  5000 result:
+sharename price
+lego      -1200
+nike      1000
+puma      3000

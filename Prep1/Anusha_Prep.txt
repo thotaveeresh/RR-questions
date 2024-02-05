@@ -1,0 +1,5 @@
+1) Difference between and best optimization ? Sort-Merge Join & Hashed-Shuffle Join
+2) Difference between and best optimization ? In memory execution at Driver and Executor Side and how does it work
+3) Azure Data - how incremenatal updation of files work also check if same file exists or not and if exists dont copy in the Blob store with best optimisation 
+Ans - Metadata of insertion in files can work but is slow , therefore log files for insertion or maintaining naming conventions
+4)Time and space complexity for a given python program?

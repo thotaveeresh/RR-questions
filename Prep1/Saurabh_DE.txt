@@ -1,0 +1,11 @@
+ADLS gen 1 and gen 2 difference
+Data redundancy mechanism in storage account 
+what is action in spark
+how is job created in spark 
+you need to read a csv file , how many stages ,tasks, jobs will be created ?
+
+
+
+
+
+
